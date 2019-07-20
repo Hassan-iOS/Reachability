@@ -1,0 +1,18 @@
+PODS:
+  - SwiftMessages (7.0.0):
+    - SwiftMessages/App (= 7.0.0)
+  - SwiftMessages/App (7.0.0)
+
+DEPENDENCIES:
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  SwiftMessages: a952f7a9103d9aeab93730a2861d2d8fcdd8758f
+
+PODFILE CHECKSUM: 4a7b1a77231b407e740a9524d54c31411fa1344c
+
+COCOAPODS: 1.7.2
